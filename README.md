@@ -1,0 +1,2 @@
+# .solarized
+Solarized config files
